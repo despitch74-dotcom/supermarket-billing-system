@@ -1,0 +1,1 @@
+               The supermarket billing system is a Point of Sale (POS) solution designed to automate checkout processes, calculate item totals, process payments, and track inventory. It replaces manual product lookup with automated scanning, significantly speeding up customer transactions and reducing checkout errors
